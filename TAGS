@@ -1,12 +1,0 @@
-
-./src/Data/Monoid/Fucks.hs,128
-module Data.Monoid.FucksData.Monoid.Fucks0,1
-newtype Fucks Fucks4,5
-newtype Fucks = Fucks Fucks4,5
-instance instance6,7
-
-./src/Lib.hs,128
-module Data.Monoid.FucksData.Monoid.Fucks0,1
-newtype Fucks Fucks4,5
-newtype Fucks = Fucks Fucks4,5
-instance instance6,7
