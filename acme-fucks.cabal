@@ -3,7 +3,7 @@ version:             0.1.0.0
 synopsis:            
 description:         Provides the Fucks Monoid
 homepage:            https://github.com/Akii/acme-fucks#readme
-license:             BSD3
+license:             WTFPL
 license-file:        LICENSE
 author:              Akii
 copyright:           2016 Akii
