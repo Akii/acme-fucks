@@ -1,5 +1,5 @@
 name:                acme-fucks
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            
 description:         Provides the Fucks Monoid
 homepage:            https://github.com/Akii/acme-fucks#readme
@@ -13,7 +13,7 @@ cabal-version:       >=1.10
 
 library
   hs-source-dirs:      src
-  exposed-modules:     Data.Monoid.Fucks
+  exposed-modules:     Acme.Fucks
   build-depends:       base >= 4.7 && < 5
   default-language:    Haskell2010
 
