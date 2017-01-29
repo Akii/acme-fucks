@@ -3,13 +3,13 @@ version:             0.1.0.1
 synopsis:            
 description:         Provides the Fucks Monoid
 homepage:            https://github.com/Akii/acme-fucks#readme
-license:             WTFPL
+license:             PublicDomain
 license-file:        LICENSE
 author:              Akii
 copyright:           2016 Akii
 category:            Library
 build-type:          Simple
-tested-with:         GHC == 7.10.2, GHC == 8.0.1, GHC == 8.1.*
+tested-with:         GHC == 8.0.1, GHC == 8.1.*
 cabal-version:       >=1.10
 
 library
